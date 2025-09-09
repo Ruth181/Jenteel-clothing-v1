@@ -67,7 +67,10 @@
                 "https://res.cloudinary.com/drzdipicj/image/upload/v1756739282/Agb-9_p7hga3.jpg",
                 "https://res.cloudinary.com/drzdipicj/image/upload/v1756739306/Agb-10_khhvhx.jpg",
                 "https://res.cloudinary.com/drzdipicj/image/upload/v1756739307/Agb-11_lcqpmy.jpg",
-                "https://res.cloudinary.com/drzdipicj/image/upload/v1756739308/Agb-12_gsxdri.jpg"
+                "https://res.cloudinary.com/drzdipicj/image/upload/v1756739308/Agb-12_gsxdri.jpg",
+                "https://res.cloudinary.com/drzdipicj/image/upload/v1757430282/bby_Agb-3_hqtayv.jpg",
+                "https://res.cloudinary.com/drzdipicj/image/upload/v1757430282/bby_Agb-2_h4rtqp.jpg",
+                "https://res.cloudinary.com/drzdipicj/image/upload/v1757430282/bby_Agb-1_cnul8w.jpg"
             ]},
             {
             "id" : 4,
@@ -80,7 +83,9 @@
                 "https://res.cloudinary.com/drzdipicj/image/upload/v1756741797/Ank-4_m0v1m2.jpg",
                 "https://res.cloudinary.com/drzdipicj/image/upload/v1756741799/Ank-5_le7an3.jpg",
                 "https://res.cloudinary.com/drzdipicj/image/upload/v1756741800/Ank-6_spf9ce.jpg",
-                "https://res.cloudinary.com/drzdipicj/image/upload/v1756741800/Ank-7_ap24la.jpg"
+                "https://res.cloudinary.com/drzdipicj/image/upload/v1756741800/Ank-7_ap24la.jpg",
+                "https://res.cloudinary.com/drzdipicj/image/upload/v1756741642/Cas-1_dbbqrh.jpg",
+                "https://res.cloudinary.com/drzdipicj/image/upload/v1756741642/Cas-2_i1xb5b.jpg"
             ]},
             {
             "id" : 5,
@@ -101,14 +106,15 @@
             "title" : "Shirts, Trousers & Casual Wears",   
             "category" : "Casual Wears",
             "image" : [
-                "https://res.cloudinary.com/drzdipicj/image/upload/v1756741642/Cas-1_dbbqrh.jpg",
-                "https://res.cloudinary.com/drzdipicj/image/upload/v1756741642/Cas-2_i1xb5b.jpg",
                 "https://res.cloudinary.com/drzdipicj/image/upload/v1756741410/Vin-3_qggwrd.jpg",
                 "https://res.cloudinary.com/drzdipicj/image/upload/v1756741359/Vin-4_qcvebd.jpg",
                 "https://res.cloudinary.com/drzdipicj/image/upload/v1756741359/Vin-5_tkucu9.jpg",
                 "https://res.cloudinary.com/drzdipicj/image/upload/v1756741359/Vin-6_iexvsi.jpg",
                 "https://res.cloudinary.com/drzdipicj/image/upload/v1756741411/Vin-2_y0ypsl.jpg",
-                "https://res.cloudinary.com/drzdipicj/image/upload/v1756741411/Vin-1_aap9iw.jpg"
+                "https://res.cloudinary.com/drzdipicj/image/upload/v1756741411/Vin-1_aap9iw.jpg",
+                "https://res.cloudinary.com/drzdipicj/image/upload/v1757430356/csh-1_mqafau.jpg",
+                "https://res.cloudinary.com/drzdipicj/image/upload/v1757430357/csh-2_gtwpqu.jpg",
+                "https://res.cloudinary.com/drzdipicj/image/upload/v1757430357/csh-3_x71e4y.jpg"
             ]   
             }
         ]
