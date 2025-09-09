@@ -1,0 +1,208 @@
+{
+    "about" : {
+        "paragraphs" :[
+            "At Jenteel Clothing, we believe fashion is more than clothing — it is identity, culture, and confidence. Our brand was founded on the passion to merge the richness of African heritage with the precision and elegance of modern tailoring.",
+            "For the past 8 years, we have served over 150 clients and designed more than 200 unique creations, ranging from timeless African kaftans to refined corporate wear and versatile street styles. Every piece is crafted with meticulous attention to detail — from fabric selection to the final stitch — ensuring comfort, durability, and sophistication.",
+            "What makes us unique is our ability to honor African tradition while embracing modern fashion, creating garments that are bold yet elegant, cultural yet contemporary. Whether you are dressing for a boardroom, a celebration, or a casual outing, Jenteel Clothing ensures you look and feel your best.",
+            "Our mission is simple: to craft clothing that tells your story with elegance and pride."
+        ],
+        "highlights": {
+            "clientsServed": 150,
+            "yearsInBusiness": 8,
+            "uniqueCreations": 200
+        }
+    },
+    "categories" : {
+        "tags" :["all","Suits","Kaftan","Agbada","African Prints (Ankara)","Fi'la Caps","Casual Wears"],
+        "designs" : [
+            {
+            "id" : 1,
+            "title" : "Business Suits",
+            "category" : "Suits",
+            "image" : [
+                "https://res.cloudinary.com/drzdipicj/image/upload/v1756738159/suit-9_ioc0jb.jpg",
+                "https://res.cloudinary.com/drzdipicj/image/upload/v1756738160/suit-13_oqalyf.jpg",
+                "https://res.cloudinary.com/drzdipicj/image/upload/v1756738160/suit-12_afqryc.jpg",
+                "https://res.cloudinary.com/drzdipicj/image/upload/v1756738160/suit-11_ilfoj1.jpg",
+                "https://res.cloudinary.com/drzdipicj/image/upload/v1756738160/suit-10_oeiodv.jpg",
+                "https://res.cloudinary.com/drzdipicj/image/upload/v1756738159/suit-8_trrug9.jpg",
+                "https://res.cloudinary.com/drzdipicj/image/upload/v1756738161/suit-7_oni7iu.jpg",
+                "https://res.cloudinary.com/drzdipicj/image/upload/v1756738160/suit-6_c3zbbz.jpg",
+                "https://res.cloudinary.com/drzdipicj/image/upload/v1756738161/suit-5_ugz0ji.jpg",
+                "https://res.cloudinary.com/drzdipicj/image/upload/v1756738160/suit-4_hhsnmp.jpg",
+                "https://res.cloudinary.com/drzdipicj/image/upload/v1756738161/suit-3_rpjhng.jpg",
+                "https://res.cloudinary.com/drzdipicj/image/upload/v1756738160/suit-2_ebms5o.jpg",
+                "https://res.cloudinary.com/drzdipicj/image/upload/v1756738160/suit-1_iyxbnm.jpg"
+            ]},
+            {
+            "id" : 2,
+            "title" : "Kaftan / Senators",
+            "category" : "Kaftan",  
+            "image" : [
+                "https://res.cloudinary.com/drzdipicj/image/upload/v1756738730/Kaf-1_nvoex3.jpg",
+                "https://res.cloudinary.com/drzdipicj/image/upload/v1756738632/Kaf-2_q5pqt0.jpg",
+                "https://res.cloudinary.com/drzdipicj/image/upload/v1756738599/Kaf-3_ypcmm7.jpg",
+                "https://res.cloudinary.com/drzdipicj/image/upload/v1756738599/Kaf-4_m55grx.jpg",
+                "https://res.cloudinary.com/drzdipicj/image/upload/v1756738599/Kaf-5_vwzo90.jpg",
+                "https://res.cloudinary.com/drzdipicj/image/upload/v1756738598/Kaf-6_yggkys.jpg",
+                "https://res.cloudinary.com/drzdipicj/image/upload/v1756738598/Kaf-7_qjftsu.jpg",
+                "https://res.cloudinary.com/drzdipicj/image/upload/v1756738598/Kaf-8_kasc9k.jpg",
+                "https://res.cloudinary.com/drzdipicj/image/upload/v1756738598/Kaf-9_gsrxfd.jpg",
+                "https://res.cloudinary.com/drzdipicj/image/upload/v1756738598/Kaf-10_mutvjz.jpg",
+                "https://res.cloudinary.com/drzdipicj/image/upload/v1756738598/Kaf-11_efubhh.jpg"
+            ]},
+            {
+            "id" : 3,
+            "title" : "Agbada / 1500",
+            "category" : "Agbada",
+            "image" : [
+                "https://res.cloudinary.com/drzdipicj/image/upload/v1756739218/Agb-1_wr9jmz.jpg",
+                "https://res.cloudinary.com/drzdipicj/image/upload/v1756739232/Agb-2_arpnzk.jpg",
+                "https://res.cloudinary.com/drzdipicj/image/upload/v1756739235/Agb-3_lpejty.jpg",
+                "https://res.cloudinary.com/drzdipicj/image/upload/v1756739234/Agb-4_yurqks.jpg",
+                "https://res.cloudinary.com/drzdipicj/image/upload/v1756739236/Agb-5_xf6ebp.jpg",
+                "https://res.cloudinary.com/drzdipicj/image/upload/v1756739239/Agb-6_z9ayxy.jpg",
+                "https://res.cloudinary.com/drzdipicj/image/upload/v1756739239/Agb-7_zdfued.jpg",
+                "https://res.cloudinary.com/drzdipicj/image/upload/v1756739238/Agb-8_j9bxgf.jpg",
+                "https://res.cloudinary.com/drzdipicj/image/upload/v1756739282/Agb-9_p7hga3.jpg",
+                "https://res.cloudinary.com/drzdipicj/image/upload/v1756739306/Agb-10_khhvhx.jpg",
+                "https://res.cloudinary.com/drzdipicj/image/upload/v1756739307/Agb-11_lcqpmy.jpg",
+                "https://res.cloudinary.com/drzdipicj/image/upload/v1756739308/Agb-12_gsxdri.jpg"
+            ]},
+            {
+            "id" : 4,
+            "title" : "Ankara",
+            "category" : "African Prints (Ankara)",
+            "image" : [
+                "https://res.cloudinary.com/drzdipicj/image/upload/v1756741794/Ank-1_ifp56o.jpg",
+                "https://res.cloudinary.com/drzdipicj/image/upload/v1756741795/Ank-2_fgbrjj.jpg",
+                "https://res.cloudinary.com/drzdipicj/image/upload/v1756741796/Ank-3_imympn.jpg",
+                "https://res.cloudinary.com/drzdipicj/image/upload/v1756741797/Ank-4_m0v1m2.jpg",
+                "https://res.cloudinary.com/drzdipicj/image/upload/v1756741799/Ank-5_le7an3.jpg",
+                "https://res.cloudinary.com/drzdipicj/image/upload/v1756741800/Ank-6_spf9ce.jpg",
+                "https://res.cloudinary.com/drzdipicj/image/upload/v1756741800/Ank-7_ap24la.jpg"
+            ]},
+            {
+            "id" : 5,
+            "title" : "Fi'la Caps",
+            "category" : "Fi'la Caps",
+            "image" : [
+                "https://res.cloudinary.com/drzdipicj/image/upload/v1756739689/Cap-1_rzistm.jpg",
+                "https://res.cloudinary.com/drzdipicj/image/upload/v1756739682/Cap-2_nux3vt.jpg",
+                "https://res.cloudinary.com/drzdipicj/image/upload/v1756739682/Cap-3_q8zesd.jpg",
+                "https://res.cloudinary.com/drzdipicj/image/upload/v1756739682/Cap-4_womjiv.jpg",
+                "https://res.cloudinary.com/drzdipicj/image/upload/v1756739682/Cap-5_g59t9p.jpg",
+                "https://res.cloudinary.com/drzdipicj/image/upload/v1756739681/Cap-6_lq4jns.jpg",
+                "https://res.cloudinary.com/drzdipicj/image/upload/v1756739681/Cap-7_n6sxbz.jpg",
+                "https://res.cloudinary.com/drzdipicj/image/upload/v1756739681/Cap-8_gtkde6.jpg"
+            ]},
+            {
+            "id" : 6,
+            "title" : "Shirts, Trousers & Casual Wears",   
+            "category" : "Casual Wears",
+            "image" : [
+                "https://res.cloudinary.com/drzdipicj/image/upload/v1756741642/Cas-1_dbbqrh.jpg",
+                "https://res.cloudinary.com/drzdipicj/image/upload/v1756741642/Cas-2_i1xb5b.jpg",
+                "https://res.cloudinary.com/drzdipicj/image/upload/v1756741410/Vin-3_qggwrd.jpg",
+                "https://res.cloudinary.com/drzdipicj/image/upload/v1756741359/Vin-4_qcvebd.jpg",
+                "https://res.cloudinary.com/drzdipicj/image/upload/v1756741359/Vin-5_tkucu9.jpg",
+                "https://res.cloudinary.com/drzdipicj/image/upload/v1756741359/Vin-6_iexvsi.jpg",
+                "https://res.cloudinary.com/drzdipicj/image/upload/v1756741411/Vin-2_y0ypsl.jpg",
+                "https://res.cloudinary.com/drzdipicj/image/upload/v1756741411/Vin-1_aap9iw.jpg"
+            ]   
+            }
+        ]
+    
+    },
+    "contact" : {
+        "phone": "09030054104",
+        "email": " jenteelclothing@gmail.com",
+        "address": "#4 Second Oza Lane, Off Sakponba Road, Benin City, Edo State, Nigeria"
+    },
+    "socialLinks" :[
+    
+        {
+            "name": "Instagram",
+            "href": "https://www.instagram.com/jenteel_clothing?igsh=MXdibTM5dzdpb3YyNQ==",
+            "label": "Contact via Instagram",
+            "color": "hover:text-pink-400"
+        },
+        {
+            "name": "WhatsApp",
+            "href": "https://wa.me/2349030054104",
+            "label": "Contact via WhatsApp",
+            "color": "hover:text-green-400"
+        },
+        {
+            "name": "Facebook",
+            "href": "https://www.facebook.com/share/1CWNc8ZMqU/",
+            "label": "Contact via Facebook",
+            "color": "hover:text-blue-400"
+        }
+    ],
+    "reviews" : [
+      {  
+        "id" : 1,
+        "name" : "Privilege",
+        "location" : "Warri Delta, Nigeria",
+        "rating" : 4,
+        "comment" : "Shopping with Jenteel Clothing was honestly a vibe. Our chats felt like half business, half comedy show 😁Your customer service was on point. My outfits and cap even landed before I needed them.I highly recommend. You’ve earned yourself 4 shiny stars ⭐⭐⭐⭐. As for the 5th star… I’m keeping that one as my little reward for being such a loyal customer 😁"
+    },
+    {
+        
+        "id" : 2,
+        "name" : "Adeyemi O.",
+        "location" : "Lagos, Nigeria",
+        "rating" : 5,
+        "comment" : "Jenteel Clothing exceeded my expectations. The kaftan I ordered was neatly tailored and very comfortable. Delivery was right on time. I’ll definitely be ordering again."
+    },
+    {
+        
+        "id" : 3,
+        "name" : "David M.",
+        "location" : "London UK",
+        "rating" : 5,
+        "comment" : "Absolutely love my outfit from Jenteel Clothing. The fit was perfect, and the fabric feels premium. It’s refreshing to see African fashion done with such elegance."
+    },
+     {
+        
+        "id" : 4,
+        "name" : "Chinedu E.",
+        "location" : "Port Harcourt Nigeria",
+        "rating" : 5,
+        "comment" : "I was impressed with the attention to detail. The stitching is clean, and the style is exactly what I wanted. Customer service was also excellent!"
+    },
+    {
+        
+        "id" : 5,
+        "name" : "Jason R.",
+        "location" : "Houston USA",
+        "rating" : 5,
+        "comment" : "I wore my Jenteel Clothing outfit to an event here in the US, and the compliments didn’t stop coming. Excellent craftsmanship and attention to detail. Highly recommended!"
+    },
+    {
+        
+        "id" : 6,
+        "name" : "Shadrach J.",
+        "location" : "Benin City Nigeria",
+        "rating" : 5,
+        "comment" : "I’ve tried other designers before, but Jenteel Clothing stands out. They listen, deliver, and the quality is top-notch. Proud to support this brand."
+    },
+    {
+        
+        "id" : 7,
+        "name" : "Anthony B.",
+        "location" : "Toronto Canada",
+        "rating" : 5,
+        "comment" : "The kaftan I received was very well-made. Delivery to Canada was smooth and the quality is outstanding. I’ll surely be recommending Jenteel Clothing to my friends here."
+    },
+    {
+        "id" : 8,
+        "name" : "Daniel",
+        "location" : "Lagos, Nigeria",
+        "rating" : 5,
+        "comment" : "👉 So far I have gotten filas from the brand and they have not disappointed Service is good "
+    }
+
+    ]
+}
