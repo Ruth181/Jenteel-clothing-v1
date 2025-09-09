@@ -3,6 +3,7 @@
 import { Mail, MapPin, Phone } from "lucide-react";
 import data from '../data/data.json';
 import { ShareButton } from "../share";
+import { BRAND } from "../data/constants";
 
 export const ContactSection = () => {   
     return(
@@ -28,11 +29,13 @@ export const ContactSection = () => {
                     </div>
                     </div>
                     <div className="group">
-                    <div className="bg-white/5 backdrop-blur-sm rounded-2xl p-8 border border-white/10 hover:bg-white/10 transition-all duration-300">
-                        <Mail className="h-8 w-8 text-white mx-auto mb-4" />
-                        <h3 className="font-medium text-lg mb-2">Email</h3>
-                        <p className="text-slate-300">{data.contact.email}</p>
-                    </div>
+                    <a href={`mailto:${BRAND.EMAIL}?subject=${BRAND.SUBJECT}&body=${BRAND.BODY}`}>
+                        <div className="bg-white/5 backdrop-blur-sm rounded-2xl p-8 border border-white/10 hover:bg-white/10 transition-all duration-300">
+                            <Mail className="h-8 w-8 text-white mx-auto mb-4" />
+                            <h3 className="font-medium text-lg mb-2">Email</h3>
+                            <p className="text-slate-300">{data.contact.email}</p>
+                        </div>
+                    </a>
                     </div>
                     <div className="group">
                     <div className="bg-white/5 backdrop-blur-sm rounded-2xl p-8 border border-white/10 hover:bg-white/10 transition-all duration-300">

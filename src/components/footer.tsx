@@ -55,7 +55,7 @@ export const Footer = () => {
                                 WhatsApp: +234 (090) 3005-4104
                             </a>
                             <span className="text-orange-600">|</span>
-                            <a href="mailto:elena@elenasatelier.com" className="hover:text-white transition-colors">
+                            <a href={`mailto:${BRAND.EMAIL}?subject=${BRAND.SUBJECT}&body=${BRAND.BODY}`} className="hover:text-white transition-colors">
                                 Email Consultation
                             </a>
                             </div>
